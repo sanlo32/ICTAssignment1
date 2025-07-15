@@ -1,4 +1,4 @@
-# ICTAssignment1
+# ICT Assignment 1
 ### NumPy Problems
 #### 1. Basic Array Operations
 Convert the mpg column into a NumPy array and calculate:
